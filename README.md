@@ -1,0 +1,4 @@
+decal
+=====
+
+glass paper
